@@ -124,6 +124,6 @@ ORDER BY percentage DESC;
 
 ---
 
-## Author
+## Notes by Authors
 
 Created as a SQL practice project on pizza sales analysis. Contributions and suggestions welcome.
